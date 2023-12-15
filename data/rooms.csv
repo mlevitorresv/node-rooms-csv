@@ -1,0 +1,37 @@
+photo, id, type, bed, amenities, description, rate, price, discount, available
+
+    http://dummyimage.com/123x100.png/ff4444/ffffff, 7, Deluxe A - 861, Suite, Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque., 
+    In congue. Etiam justo. Etiam pretium iaculis justo., 3.7, 19, 43.1, true 
+    
+
+    http://dummyimage.com/128x100.png/cc0000/ffffff, 5, Deluxe A - 756, Double Super, Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus., 
+    Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis., 9.8, 30, 20.8, true 
+    
+
+    http://dummyimage.com/135x100.png/cc0000/ffffff, 1, Deluxe A - 656, Double Super, Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis., 
+    Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi., 9.9, 124, 37.7, true 
+    
+
+    http://dummyimage.com/240x100.png/5fa2dd/ffffff, 8, Deluxe A - 204, Double Super, Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh., 
+    In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus., 4.5, 197, 70.1, true 
+    
+
+    http://dummyimage.com/151x100.png/dddddd/000000, 2, Deluxe A - 428, Double Bed, Sed ante. Vivamus tortor. Duis mattis egestas metus., 
+    Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti., 8.1, 269, 21.2, true 
+    
+
+    http://dummyimage.com/158x100.png/5fa2dd/ffffff, 4, Deluxe A - 251, Single Bed, Fusce consequat. Nulla nisl. Nunc nisl., 
+    Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus., 3.6, 362, 88.8, true 
+    
+
+    http://dummyimage.com/144x100.png/5fa2dd/ffffff, 3, Deluxe A - 672, Suite, Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit., 
+    Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris., 7.6, 610, 17.5, false 
+    
+
+    http://dummyimage.com/187x100.png/ff4444/ffffff, 6, Deluxe A - 541, Single Bed, Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem., 
+    Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio., 1.7, 695, 76.3, true 
+    
+
+    http://dummyimage.com/182x100.png/5fa2dd/ffffff, 9, Deluxe A - 989, Double Bed, Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis., 
+    Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem., 6.8, 765, 79.3, false 
+    

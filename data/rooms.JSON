@@ -1,0 +1,110 @@
+[
+    {
+        "photo": "http://dummyimage.com/135x100.png/cc0000/ffffff",
+        "id": 1,
+        "type": "Deluxe A - 656",
+        "bed": "Double Super",
+        "amenities": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+        "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+        "rate": 9.9,
+        "price": 124,
+        "discount": 37.7,
+        "available": true
+    },
+    {
+        "photo": "http://dummyimage.com/151x100.png/dddddd/000000",
+        "id": 2,
+        "type": "Deluxe A - 428",
+        "bed": "Double Bed",
+        "amenities": "Sed ante. Vivamus tortor. Duis mattis egestas metus.",
+        "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+        "rate": 8.1,
+        "price": 269,
+        "discount": 21.2,
+        "available": true
+    },
+    {
+        "photo": "http://dummyimage.com/144x100.png/5fa2dd/ffffff",
+        "id": 3,
+        "type": "Deluxe A - 672",
+        "bed": "Suite",
+        "amenities": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+        "rate": 7.6,
+        "price": 610,
+        "discount": 17.5,
+        "available": false
+    },
+    {
+        "photo": "http://dummyimage.com/158x100.png/5fa2dd/ffffff",
+        "id": 4,
+        "type": "Deluxe A - 251",
+        "bed": "Single Bed",
+        "amenities": "Fusce consequat. Nulla nisl. Nunc nisl.",
+        "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+        "rate": 3.6,
+        "price": 362,
+        "discount": 88.8,
+        "available": true
+    },
+    {
+        "photo": "http://dummyimage.com/128x100.png/cc0000/ffffff",
+        "id": 5,
+        "type": "Deluxe A - 756",
+        "bed": "Double Super",
+        "amenities": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+        "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+        "rate": 9.8,
+        "price": 30,
+        "discount": 20.8,
+        "available": true
+    },
+    {
+        "photo": "http://dummyimage.com/187x100.png/ff4444/ffffff",
+        "id": 6,
+        "type": "Deluxe A - 541",
+        "bed": "Single Bed",
+        "amenities": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+        "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+        "rate": 1.7,
+        "price": 695,
+        "discount": 76.3,
+        "available": true
+    },
+    {
+        "photo": "http://dummyimage.com/123x100.png/ff4444/ffffff",
+        "id": 7,
+        "type": "Deluxe A - 861",
+        "bed": "Suite",
+        "amenities": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+        "description": "In congue. Etiam justo. Etiam pretium iaculis justo.",
+        "rate": 3.7,
+        "price": 19,
+        "discount": 43.1,
+        "available": true
+    },
+    {
+        "photo": "http://dummyimage.com/240x100.png/5fa2dd/ffffff",
+        "id": 8,
+        "type": "Deluxe A - 204",
+        "bed": "Double Super",
+        "amenities": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "rate": 4.5,
+        "price": 197,
+        "discount": 70.1,
+        "available": true
+    },
+    {
+        "photo": "http://dummyimage.com/182x100.png/5fa2dd/ffffff",
+        "id": 9,
+        "type": "Deluxe A - 989",
+        "bed": "Double Bed",
+        "amenities": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+        "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+        "rate": 6.8,
+        "price": 765,
+        "discount": 79.3,
+        "available": false
+    }
+]
